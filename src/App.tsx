@@ -83,7 +83,7 @@ function App() {
             <div className="overflow-x-auto">
               <div className="min-w-[800px] h-[400px] flex items-center justify-center">
                 <img 
-                  src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" 
+                  src="https://cdn.trinixy.ru/pics5/20170802/hippo_04.jpg" 
                   alt="Architecture Diagram" 
                   className="max-w-full max-h-full object-contain"
                 />
